@@ -1,0 +1,34 @@
+{
+  "name": "get-anchor",
+  "version": "1.0.0",
+  "description": "Get an anchor by href and optional query",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && NODE_ENV=test node test",
+    "test-cov": "standard && NODE_ENV=test istanbul cover test.js"
+  },
+  "repository": "yoshuawuyts/get-anchor",
+  "keywords": [
+    "anchor",
+    "query",
+    "get",
+    "find",
+    "tag",
+    "markdown",
+    "selector",
+    "DOM",
+    "HTML",
+    "a"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "istanbul": "^0.3.17",
+    "jsdom": "^5.4.3",
+    "tape": "^4.0.0"
+  },
+  "files": [
+    "LICENSE",
+    "README.md",
+    "index.js"
+  ]
+}
