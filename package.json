@@ -9,21 +9,22 @@
   },
   "repository": "yoshuawuyts/get-anchor",
   "keywords": [
-    "anchor",
-    "query",
-    "get",
-    "find",
-    "tag",
-    "markdown",
-    "selector",
     "DOM",
     "HTML",
-    "a"
+    "a",
+    "anchor",
+    "find",
+    "get",
+    "markdown",
+    "query",
+    "selector",
+    "tag"
   ],
   "license": "MIT",
   "devDependencies": {
     "istanbul": "^0.3.17",
     "jsdom": "^5.4.3",
+    "standard": "^4.4.1",
     "tape": "^4.0.0"
   },
   "files": [
